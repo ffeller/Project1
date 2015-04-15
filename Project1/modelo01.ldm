@@ -97,6 +97,18 @@
           <styles xsi:type="datanotation:TableStyle" xmi:id="_XAs2Q-OyEeS_CqmnxQcoGQ" showAlternateKey="true" fontName="Segoe UI" lineWidth="1"/>
           <layoutConstraint xsi:type="notation:Bounds" xmi:id="_XAs2QuOyEeS_CqmnxQcoGQ" x="5132" y="7805"/>
         </children>
+        <children xsi:type="notation:Shape" xmi:id="_SjvQ0OO0EeS_CqmnxQcoGQ" type="Note" fontName="Segoe UI" description="&lt;p>Modelo exemplo&lt;/p>" fillColor="13369343" transparency="0" lineColor="6737151" lineWidth="1">
+          <children xsi:type="notation:BasicDecorationNode" xmi:id="_Sj3zsOO0EeS_CqmnxQcoGQ" type="DiagramName">
+            <element xsi:nil="true"/>
+          </children>
+          <children xsi:type="notation:BasicDecorationNode" xmi:id="_Sj4awOO0EeS_CqmnxQcoGQ" type="Description">
+            <element xsi:nil="true"/>
+          </children>
+          <styles xsi:type="notation:TextStyle" xmi:id="_SjvQ0eO0EeS_CqmnxQcoGQ"/>
+          <styles xsi:type="notation:LineTypeStyle" xmi:id="_SjvQ0uO0EeS_CqmnxQcoGQ"/>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_SjvQ0-O0EeS_CqmnxQcoGQ" x="6826" y="1058"/>
+        </children>
         <styles xsi:type="datanotation:DataAttributeStyle" xmi:id="_VXRPxeOxEeS_CqmnxQcoGQ" showAlternateKey="true"/>
         <styles xsi:type="datanotation:DataCompartmentStyle" xmi:id="_VXRPxuOxEeS_CqmnxQcoGQ"/>
         <styles xsi:type="datanotation:DataDisplayStyle" xmi:id="_VXRPx-OxEeS_CqmnxQcoGQ"/>
